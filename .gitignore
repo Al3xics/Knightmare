@@ -1,12 +1,12 @@
 # Exclude all files in the project except the Images folder, and the README.md
-/[Aa]ssets/
-/[Pp]ackages/
-/[Pp]rojectSettings/
-.plastic/
-.vsconfig
-.erp
-*.conf
-*.zip
+#/[Aa]ssets/
+#/[Pp]ackages/
+#/[Pp]rojectSettings/
+#.plastic/
+#.vsconfig
+#.erp
+#*.conf
+#*.zip
 
 
 # This .gitignore file should be placed at the root of your Unity project directory
